@@ -177,8 +177,14 @@ StrOutputParser
 ## Chains Covered
 
 Simple chain → simplechain.py
+
+
 Sequential chain → sequentialchain.py
+
+
 Parallel chain → parallelchain.py
+
+
 Conditional chain → conditionalchain.py
 
 ---
